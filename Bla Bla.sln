@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bla Bla", "Bla Bla\Bla Bla.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNames", "PrintNames\PrintNames.csproj", "{724D4931-9C8F-47F8-8AE2-DBB45288D0E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork", "ClassWork\ClassWork.csproj", "{44CDE8E8-38AA-4C46-B80C-09ECF0D10578}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{724D4931-9C8F-47F8-8AE2-DBB45288D0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{724D4931-9C8F-47F8-8AE2-DBB45288D0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{724D4931-9C8F-47F8-8AE2-DBB45288D0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CDE8E8-38AA-4C46-B80C-09ECF0D10578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CDE8E8-38AA-4C46-B80C-09ECF0D10578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CDE8E8-38AA-4C46-B80C-09ECF0D10578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CDE8E8-38AA-4C46-B80C-09ECF0D10578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
